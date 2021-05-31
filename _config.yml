@@ -30,8 +30,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/"
 ]
 # Build settings
-#theme: minima
-theme: architect
+theme: minima
+#theme: architect
 plugins:
   - jekyll-feed
 
